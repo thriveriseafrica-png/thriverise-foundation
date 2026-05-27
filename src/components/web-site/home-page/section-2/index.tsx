@@ -1,13 +1,13 @@
 "use client";
 import { useCounter } from "@/hooks/counter.hooks";
-import React from "react";
+
 export default function Section2() {
   const { count: studentsCount, countRef: refStudent } = useCounter(1000, 5000);
   const { count: hourCount, countRef: refHour } = useCounter(100, 5000);
   const { count: countCenters, countRef: refCenters } = useCounter(1, 5000);
   const { count: countAmbassadors, countRef: refAmbassadors } = useCounter(
     15,
-    5000
+    5000,
   );
 
   return (
