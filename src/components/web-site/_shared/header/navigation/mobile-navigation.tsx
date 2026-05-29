@@ -47,13 +47,16 @@ export default function MobileNavigation() {
             initial="initial"
             animate="animate"
             transition={{ duration: 0.5, ease: "easeInOut" }}
-            className="fixed inset-0 bg-white w-full h-[100svh] grid py-5 overflow-hidden"
+            className="fixed inset-0 bg-white w-full h-svh grid py-5 overflow-hidden"
           >
             <div className="grid gap-16 grid-flow-row content-start h-screen overflow-hidden">
               {/* Logo and Close button */}
               <div className="px-5 pt-12">
                 <div className="container mx-auto grid grid-flow-col items-center justify-between">
-                  <Logo variant="black" className="w-14 h-14" />
+                  {/* Logo */}
+                  <div onClick={handleToggle}>
+                    <Logo variant="black" className="w-14 h-14" />
+                  </div>
 
                   <Button
                     variant={ButtonVariants.SkyBlueFilledRounded}
@@ -94,6 +97,7 @@ export default function MobileNavigation() {
                 <div className="container mx-auto grid grid-flow-col gap-3">
                   <Link href={"get-involved#volunteer-section"}>
                     <Button
+                      onClick={handleToggle}
                       variant={ButtonVariants.CreamFilledRounded}
                       className="w-full"
                     >
@@ -102,6 +106,7 @@ export default function MobileNavigation() {
                   </Link>
                   <Link href={"get-involved#donate-section"}>
                     <Button
+                      onClick={handleToggle}
                       variant={ButtonVariants.SkyBlueFilledRounded}
                       className="w-full"
                     >

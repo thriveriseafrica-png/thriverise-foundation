@@ -1,6 +1,6 @@
 import { useRouter } from "next/navigation";
 import { useTopLoader } from "nextjs-toploader";
-import React, { ReactNode } from "react";
+import { ReactNode } from "react";
 
 interface NavigationItemProps {
   className?: string;

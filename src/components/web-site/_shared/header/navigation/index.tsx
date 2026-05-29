@@ -1,5 +1,4 @@
 "use client";
-import React from "react";
 import NavigationItem from "./navigation-item";
 import MobileNavigation from "./mobile-navigation";
 
