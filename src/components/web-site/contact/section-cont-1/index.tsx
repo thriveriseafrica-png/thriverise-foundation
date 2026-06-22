@@ -46,6 +46,10 @@ export default function SectionContact1() {
               <p>+234 702520 1857</p>
             </div>
             <div>
+              <h2>Address:</h2>
+              <p>Tanke, Ilorin, Kwara State, Nigeria</p>
+            </div>
+            <div>
               <h2>Media & Partnership Inquiries</h2>
               <p>
                 For press, partnerships, or speaking engagements, please email:{" "}
