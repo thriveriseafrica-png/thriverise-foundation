@@ -20,7 +20,7 @@ export default function SectionTeam1() {
         </div>
         <div className="grid lg:grid-flow-col gap-7 lg:gap-12 lg:px-24">
           <Image
-            src="/MichaelOlukayode.jpg"
+            src="/website-ui/MichaelOlukayode.jpg"
             width={400}
             height={400}
             className="w-full"
