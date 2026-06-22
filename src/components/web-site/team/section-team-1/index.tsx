@@ -20,43 +20,32 @@ export default function SectionTeam1() {
         </div>
         <div className="grid lg:grid-flow-col gap-7 lg:gap-12 lg:px-24">
           <Image
-            src="/website-ui/team-1.svg"
+            src="/MichaelOlukayode.jpg"
             width={400}
             height={400}
             className="w-full"
-            alt="Saudat"
+            alt="Michael Olukayode"
           />
 
           <div className="pl-2">
             <p className="">
-              Michael Olukayode is a purpose-driven leader working at the
-              intersection of cybersecurity, AI, social impact, and community
-              development. <br />
-              He is the President of the Board of Trustees at ThriveRise Foundation,
-              a nonprofit organization dedicated to expanding access to
-              education across Africa. Through ThriveRise Foundation, he is helping create
-              pathways for underserved children to access quality education and
-              empowering young people with mentorship, tools, and training to
-              thrive academically and professionally. <br />
-              Michael also leads the Mikaelson Innovation and Community
-              Development Initiative, a people-first movement shaping
-              Africa&apos;s future through habits, community, and technology.
-              The initiative helps young people build discipline, digital
-              skills, and leadership habits that transform personal lives and
-              ripple into lasting community impact. Under his leadership, the
-              organization advances SDG 4, 8, 9, 11, and 17 through programs
-              like Mikaelson Labs, the 30-Day Reset Challenge, and strategic
-              community partnerships. <br />
-              In addition, Michael is a cybersecurity facilitator, educator, and
-              community builder, teaching the full CompTIA Security+ curriculum
-              and mentoring aspiring professionals. He has organized and led
-              high-impact events such as DevFest Ilorin, DevFest Lagos,
-              CareerFest 2024, and the Global Community Expo 1.0, creating
-              platforms that cultivate skills, collaboration, and innovation
-              among young tech enthusiasts. With a strong background in
-              technology education, operations, and community engagement,
-              Michael brings a strategic, people-centered approach to building
-              initiatives that empower individuals and transform communities.
+              Michael Olukayode is a social innovator and youth development
+              advocate passionate about helping young Africans build the habits,
+              skills, and support systems needed to thrive in the modern world.{" "}
+              <br />
+              He is the Founder and Executive Director of the Mikaelson
+              Initiative, a youth-focused non-profit organization working at the
+              intersection of personal development, technology, and community.
+              Through his work, Michael has led initiatives that have impacted
+              thousands of young people across Africa, creating opportunities
+              for growth, leadership, digital literacy, and meaningful social
+              change. <br />
+              He also serves as board president at ThriveRise Foundation, where
+              he supports efforts to expand access to formal, digital, and
+              informal education for underserved children and communities. <br />
+              His mission is to empower the next generation to live
+              intentionally, contribute to their communities, and shape
+              Africa&apos;s future.
             </p>
           </div>
         </div>
