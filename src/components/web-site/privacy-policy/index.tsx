@@ -9,7 +9,7 @@ export default function PrivacyPolicy() {
             Privacy Policy
           </h1>
           <p className="">
-            Your privacy is important to us at ThriveRise Africa. Here's how we
+            Your privacy is important to us at ThriveRise Foundation. Here's how we
             handle your data:
           </p>
           <p>Your donation supports:</p>

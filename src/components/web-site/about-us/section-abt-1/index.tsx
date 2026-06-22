@@ -15,7 +15,7 @@ export default function SectionAbout1() {
       >
         <div className="grid gap-2.5">
           <h1 className="text-5xl uppercase font-bold md:text-6xl">
-            About ThriveRise Africa
+            About ThriveRise Foundation for Educational Development
           </h1>
           <p className="md:text-xl lg:max-w-4xl leading-relaxed">
             At ThriveRise, we believe that education and opportunity should

@@ -17,7 +17,7 @@ export default function SectionGetInv1() {
             Join the ThriveRise Movement
           </h1>
           <p className="">
-            At ThriveRise Africa, we believe that lasting change happens when
+            At ThriveRise Foundation, we believe that lasting change happens when
             people come together. Whether you&apos;re passionate about teaching,
             donating, mentoring, or supporting from afar, there&apos;s a place
             for you here. Help us bridge education gaps, empower young people,

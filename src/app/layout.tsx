@@ -14,8 +14,46 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "ThriveRise",
-  description: "",
+  title: {
+    default: "ThriveRise Foundation | Empowering Youth Through Education",
+    template: "%s | ThriveRise Foundation",
+  },
+  description:
+    "ThriveRise Foundation for Educational Development is a youth-led nonprofit empowering out-of-school children, underserved youth, and students across Africa with free education, skills, and lifelong opportunities.",
+  keywords: [
+    "ThriveRise Foundation",
+    "education nonprofit Africa",
+    "youth empowerment Nigeria",
+    "free education Africa",
+    "out-of-school children",
+    "SDG 4 quality education",
+    "skills development Africa",
+  ],
+  metadataBase: new URL("https://thriverisefoundation.org"),
+  openGraph: {
+    type: "website",
+    siteName: "ThriveRise Foundation",
+    title: "ThriveRise Foundation | Empowering Youth Through Education",
+    description:
+      "A youth-led nonprofit empowering out-of-school children, underserved youth, and students across Africa with free education, skills, and lifelong opportunities.",
+    url: "https://thriverisefoundation.org",
+    images: [
+      {
+        url: "/website-ui/hero-image.png",
+        width: 1200,
+        height: 630,
+        alt: "ThriveRise Foundation",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    site: "@thriverise_",
+    title: "ThriveRise Foundation | Empowering Youth Through Education",
+    description:
+      "A youth-led nonprofit empowering out-of-school children, underserved youth, and students across Africa with free education, skills, and lifelong opportunities.",
+    images: ["/website-ui/hero-image.png"],
+  },
   icons: {
     icon: "/website-ui/thriverise-logo.svg",
   },

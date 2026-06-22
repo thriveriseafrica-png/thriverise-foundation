@@ -29,7 +29,7 @@ export default function CampusSection4() {
 
           <ul className="space-y-3">
             {[
-              "Represent ThriveRise Africa in your school.",
+              "Represent ThriveRise Foundation in your school.",
               "Spread awareness about our programs and opportunities.",
               "Connect with fellow student leaders and drive collaborations.",
               "Share feedback, ideas, and stories from your campus community.",

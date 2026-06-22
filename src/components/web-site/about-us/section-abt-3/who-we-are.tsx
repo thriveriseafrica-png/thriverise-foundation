@@ -14,7 +14,7 @@ export default function WhoWeAre() {
       <div className="grid gap-2.5 text-[#FFF8EB] order-2 lg:order-none">
         <h1 className="uppercase font-bold text-2xl md:text-4xl">Who We Are</h1>
         <p className="">
-          ThriveRise Africa is a youth-led, nonprofit organization committed to
+          ThriveRise Foundation is a youth-led, nonprofit organization committed to
           advancing SDG 4 (Quality Education) and SDG 8 (Decent Work and
           Economic Growth) from the grassroots. We work with communities,
           schools, and institutions to reach out-of-school children, underserved

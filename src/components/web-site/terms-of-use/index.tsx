@@ -9,7 +9,7 @@ export default function TermsOfUse() {
             Terms of Use
           </h1>
           <p className="">
-            By using our website or interacting with ThriveRise Africa, you
+            By using our website or interacting with ThriveRise Foundation, you
             agree to:
           </p>
 

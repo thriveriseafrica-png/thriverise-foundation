@@ -64,7 +64,7 @@ export default function CampusSection5() {
                   Certificates & Recognition →{" "}
                 </span>
                 Earn a certificate of service and exclusive opportunities to
-                represent ThriveRise Africa in bigger projects.
+                represent ThriveRise Foundation in bigger projects.
               </p>
             </li>
           </ul>

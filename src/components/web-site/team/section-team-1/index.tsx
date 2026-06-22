@@ -32,9 +32,9 @@ export default function SectionTeam1() {
               Michael Olukayode is a purpose-driven leader working at the
               intersection of cybersecurity, AI, social impact, and community
               development. <br />
-              He is the President of the Board of Trustees at ThriveRise Africa,
+              He is the President of the Board of Trustees at ThriveRise Foundation,
               a nonprofit organization dedicated to expanding access to
-              education across Africa. Through ThriveRise, he is helping create
+              education across Africa. Through ThriveRise Foundation, he is helping create
               pathways for underserved children to access quality education and
               empowering young people with mentorship, tools, and training to
               thrive academically and professionally. <br />

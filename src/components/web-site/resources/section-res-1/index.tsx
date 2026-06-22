@@ -17,7 +17,7 @@ export default function SectionResources1() {
             Learn. Track. Stay Informed.
           </h1>
           <p className="">
-            Welcome to the ThriveRise Africa Resources Hub , your go-to space
+            Welcome to the ThriveRise Foundation Resources Hub, your go-to space
             for the latest updates, stories, data, and insights about our work
             and the communities we serve. <br />
             Stay inspired by our blog, explore our reports, and catch up on

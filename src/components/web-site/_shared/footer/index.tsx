@@ -71,7 +71,7 @@ export default function Footer() {
         <div className="w-full grid sm:grid-flow-col justify-between gap-7">
           <div className="grid order-2 sm:order-none">
             <p className="opacity-70">
-              © 2025 ThriveRise Africa. All Rights Reserved.
+              © 2026 ThriveRise Foundation. All Rights Reserved.
             </p>
           </div>
           <div className="grid grid-flow-col gap-2 justify-between order-1 sm:order-none">
