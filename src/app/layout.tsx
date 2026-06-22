@@ -54,6 +54,9 @@ export const metadata: Metadata = {
       "A youth-led nonprofit empowering out-of-school children, underserved youth, and students across Africa with free education, skills, and lifelong opportunities.",
     images: ["/website-ui/hero-image.png"],
   },
+  verification: {
+    google: "zjb_0mvFxdyqEmmiJKd_WgIa9mjbAutRNpk2QxpmbUs",
+  },
   icons: {
     icon: "/website-ui/thriverise-logo.svg",
   },
