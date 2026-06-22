@@ -19,13 +19,19 @@ export default function SectionTeam1() {
           </h1>
         </div>
         <div className="grid lg:grid-flow-col gap-7 lg:gap-12 lg:px-24">
-          <Image
-            src="/website-ui/MichaelOlukayode.jpg"
-            width={400}
-            height={400}
-            className="w-full"
-            alt="Michael Olukayode"
-          />
+          <div>
+            <Image
+              src="/website-ui/MichaelOlukayode.jpg"
+              width={400}
+              height={400}
+              className="w-full"
+              alt="Michael Olukayode"
+            />
+            <div className="mt-3 text-center">
+              <p className="font-bold text-lg">Michael Olukayode</p>
+              <p className="opacity-75 text-sm">President of Board</p>
+            </div>
+          </div>
 
           <div className="pl-2">
             <p className="">

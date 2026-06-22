@@ -14,13 +14,19 @@ export default function SectionTeam2() {
         className="container mx-auto text-white"
       >
         <div className="grid lg:grid-flow-col gap-7 lg:gap-12 lg:px-24">
-          <Image
-            src="/website-ui/team-2.svg"
-            width={400}
-            height={400}
-            className="w-full"
-            alt="Saudat"
-          />
+          <div>
+            <Image
+              src="/website-ui/team-2.svg"
+              width={400}
+              height={400}
+              className="w-full"
+              alt="Boluwatife Adeleke"
+            />
+            <div className="mt-3 text-center">
+              <p className="font-bold text-lg">Boluwatife Adeleke</p>
+              <p className="opacity-75 text-sm">Trustee (Secretary)</p>
+            </div>
+          </div>
 
           <div className="pl-2">
             <p>
